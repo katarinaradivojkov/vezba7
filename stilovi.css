@@ -1,0 +1,38 @@
+h1{
+text-align: center;
+}
+nav ul{
+list-style-type: none;
+overflow: hidden;
+background-color: black;
+}
+
+nav li{
+float: left;
+}
+
+nav li a {
+display: block;
+color: white;
+text-align: center;
+padding: 14px 15px 14px 0px;
+font-family: Arial;
+font-size: 16px;
+}
+body{
+font-family: Arial;
+font-size: 16px;
+}
+.preci{
+font-family: Verdana;
+font-size: 16px;
+color: red;
+}
+#tekst{
+font-family: Arial;
+font-size: 16px;
+}
+.lista{
+font-family: Arial;
+font-size: 16px;
+}
